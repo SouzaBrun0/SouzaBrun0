@@ -12,7 +12,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="PGM" src="https://cdn.discordapp.com/attachments/817401092752932916/1017400940896194560/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/procuradoria/)
 
 **Cargo Atual: Estagiário** \
-Outubro de 2023 - Junho de 2025 \
+Novembro de 2023 - Junho de 2025 \
 [**Secretaria de Educação do Município de Aracaju**](https://www.aracaju.se.gov.br/educacao/) • Estágio de desenvolvedor \
 Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`, `Python`\
 <br/>
