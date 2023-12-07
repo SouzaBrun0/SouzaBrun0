@@ -14,5 +14,5 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Cargo Atual: Desenvolvedor Front End** \
 Novembro de 2023 - Junho de 2025 \
 [**Secretaria de Educação do Município de Aracaju**](https://www.aracaju.se.gov.br/educacao/) • Estágio de desenvolvedor \
-Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`, `Python`\
+Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`\
 <br/>
