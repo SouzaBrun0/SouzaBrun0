@@ -9,7 +9,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="PGM" src=" https://www.aracaju.se.gov.br/userfiles/noticia_imagens/201702/70693/avatar_960.jpg "/>](https://www.aracaju.se.gov.br/)
+[<img align="left" height="94px" width="94px" alt="SEMED" src="https://www.aracaju.se.gov.br/userfiles/noticia_imagens/201702/70693/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/)
 
 **Último Cargo: Desenvolvedor Front End** \
 Novembro de 2023 - Fevereiro de 2024 \
