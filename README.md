@@ -9,10 +9,11 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="SEMED" src="https://www.aracaju.se.gov.br/userfiles/noticia_imagens/201702/70693/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/)
+[<img align="left" height="94px" width="94px" alt="SEMED" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsistema.redepresidente.com.br%2F&psig=AOvVaw328VfLr9F8tbUQbPtnW_GU&ust=1749478543592000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJib-cqB4o0DFQAAAAAdAAAAABAE
+"/>]
 
 **Último Cargo: Desenvolvedor Front End** \
-Novembro de 2023 - Fevereiro de 2024 \
-[**Secretaria de Educação do Município de Aracaju**](https://www.aracaju.se.gov.br/educacao/) • Estágio de desenvolvedor \
-Linguagens & Tecnologias: `Css3`, `JavaScript`, `Html5`\
+Junho de 2025 - o momento \
+[**Grupo Miro Santos (Rede Presidente)**](https://redepresidente.com.br/quem-somos/) • Estágio de Desenvolvedor \
+Linguagens & Tecnologias: `Java`, `React`, `APIs`\
 <br/>
