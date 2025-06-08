@@ -9,8 +9,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="SEMED" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsistema.redepresidente.com.br%2F&psig=AOvVaw328VfLr9F8tbUQbPtnW_GU&ust=1749478543592000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJib-cqB4o0DFQAAAAAdAAAAABAE
-"/>]
+<img align="left" height="94px" width="94px" alt="RP" src="https://www.crea-se.org.br/wp-content/uploads/2017/04/rede-de-postos-presidente.jpg"/>
 
 **Último Cargo: Desenvolvedor Front End** \
 Junho de 2025 - o momento \
