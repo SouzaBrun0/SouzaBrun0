@@ -13,6 +13,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Último Cargo: Desenvolvedor Front End** \
 Agosto de 2025 - o momento \
-[**Yô Telecom **](https://infotec.psi.br/) • Estágio de Desenvolvedor \
+[Yo Telecom ](https://infotec.psi.br/) • Estágio de Desenvolvedor \
 Linguagens & Tecnologias: `Java`, `React`, `APIs`\
 <br/>
