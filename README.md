@@ -9,10 +9,10 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="RP" src="https://www.crea-se.org.br/wp-content/uploads/2017/04/rede-de-postos-presidente.jpg"/>
+<img align="left" height="94px" width="94px" alt="RP" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpbBYMFVz54Xs9tQOdUJmEOFeoYjZpUf6hg&s"/>
 
 **Último Cargo: Desenvolvedor Front End** \
-Junho de 2025 - o momento \
-[**Grupo Miro Santos (Rede Presidente)**](https://redepresidente.com.br/quem-somos/) • Estágio de Desenvolvedor \
+Agosto de 2025 - o momento \
+[**Yô Telecom **](https://infotec.psi.br/) • Estágio de Desenvolvedor \
 Linguagens & Tecnologias: `Java`, `React`, `APIs`\
 <br/>
